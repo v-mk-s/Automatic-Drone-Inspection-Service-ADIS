@@ -19,3 +19,5 @@ Python, [YOLOv5](https://github.com/ultralytics/yolov5), [Detectron2](https://gi
 
 ## Work in progress
 The source code cannot be presented.
+
+© ADIS 2022
