@@ -9,6 +9,8 @@ I am developing a high-tech automated inspection system for conveyor belts for l
 Python, [YOLOv5](https://github.com/ultralytics/yolov5), [Detectron2](https://github.com/facebookresearch/detectron2), OpenCV, Django
 
 ## Results
+Developed an object detection & tracking system with an accuracy of 98% by improving YOLOv5 with stack 
+input and RGB & IR cameras, leading to increase accuracy to an additional  5%. 
 
 ![alt text](https://github.com/v-mk-s/ADIS/blob/master/ADIS-Video-test-15-sec.gif "")
 
