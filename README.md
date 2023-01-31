@@ -22,4 +22,4 @@ input and RGB & IR cameras, leading to increase accuracy to an additional  5%.
 ## Work in progress
 The source code cannot be presented.
 
-© ADIS 2022
+© ADIS 2023
